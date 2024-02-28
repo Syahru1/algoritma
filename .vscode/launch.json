@@ -1,0 +1,1050 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Modulpiramida3",
+            "request": "launch",
+            "mainClass": "Modulpiramida3",
+            "projectName": "DASPRO_4f17e9ca"
+        },
+        {
+            "type": "java",
+            "name": "Latihan119",
+            "request": "launch",
+            "mainClass": "Latihan119",
+            "projectName": "DASPRO_4f17e9ca"
+        },
+        {
+            "type": "java",
+            "name": "pemilihan",
+            "request": "launch",
+            "mainClass": "Jobsheet1.pemilihan",
+            "projectName": "DASPRO_4f17e9ca"
+        },
+        {
+            "type": "java",
+            "name": "Dragon",
+            "request": "launch",
+            "mainClass": "Dragon",
+            "projectName": "DASPRO_4f17e9ca"
+        },
+        {
+            "type": "java",
+            "name": "Tes",
+            "request": "launch",
+            "mainClass": "Tes",
+            "projectName": "DASPRO_4f17e9ca"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "DASPRO_4f17e9ca"
+        },
+        {
+            "type": "java",
+            "name": "BukuMain19",
+            "request": "launch",
+            "mainClass": "BukuMain19",
+            "projectName": "DASPRO_4f17e9ca"
+        },
+        {
+            "type": "java",
+            "name": "kecepatan",
+            "request": "launch",
+            "mainClass": "kecepatan",
+            "projectName": "DASPRO_4f17e9ca"
+        },
+        {
+            "type": "java",
+            "name": "plat",
+            "request": "launch",
+            "mainClass": "plat",
+            "projectName": "DASPRO_4f17e9ca"
+        },
+        {
+            "type": "java",
+            "name": "array2",
+            "request": "launch",
+            "mainClass": "array2",
+            "projectName": "DASPRO_4f17e9ca"
+        },
+        {
+            "type": "java",
+            "name": "array",
+            "request": "launch",
+            "mainClass": "array",
+            "projectName": "DASPRO_4f17e9ca"
+        },
+        {
+            "type": "java",
+            "name": "perulangan",
+            "request": "launch",
+            "mainClass": "perulangan",
+            "projectName": "DASPRO_4f17e9ca"
+        },
+        {
+            "type": "java",
+            "name": "fungsi",
+            "request": "launch",
+            "mainClass": "fungsi",
+            "projectName": "DASPRO_4f17e9ca"
+        },
+        {
+            "type": "java",
+            "name": "nilai",
+            "request": "launch",
+            "mainClass": "nilai",
+            "projectName": "DASPRO_4f17e9ca"
+        },
+        {
+            "type": "java",
+            "name": "Nilai19Modif",
+            "request": "launch",
+            "mainClass": "Nilai19Modif",
+            "projectName": "DASPRO_4f17e9ca"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ArrayBilangan1",
+            "request": "launch",
+            "mainClass": "ArrayBilangan1",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "ArrayBilangan19",
+            "request": "launch",
+            "mainClass": "ArrayBilangan19",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "ArrayBilangan2",
+            "request": "launch",
+            "mainClass": "ArrayBilangan2",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "ArrayBilangan3",
+            "request": "launch",
+            "mainClass": "ArrayBilangan3",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "ArrayNilai1",
+            "request": "launch",
+            "mainClass": "ArrayNilai1",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "ArrayNilai19",
+            "request": "launch",
+            "mainClass": "ArrayNilai19",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "ArrayNilai2",
+            "request": "launch",
+            "mainClass": "ArrayNilai2",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "ArrayNilai3",
+            "request": "launch",
+            "mainClass": "ArrayNilai3",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "ArrayRataNilai1",
+            "request": "launch",
+            "mainClass": "ArrayRataNilai1",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "ArrayRataNilai19",
+            "request": "launch",
+            "mainClass": "ArrayRataNilai19",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "ArrayRataNilai2",
+            "request": "launch",
+            "mainClass": "ArrayRataNilai2",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Bank19",
+            "request": "launch",
+            "mainClass": "Bank19",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "BillingWarnet",
+            "request": "launch",
+            "mainClass": "BillingWarnet",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "BillingWarnet5",
+            "request": "launch",
+            "mainClass": "BillingWarnet5",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "BillingWarnet6",
+            "request": "launch",
+            "mainClass": "BillingWarnet6",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "BillingWarnet7",
+            "request": "launch",
+            "mainClass": "BillingWarnet7",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "BillingWarnet9",
+            "request": "launch",
+            "mainClass": "BillingWarnet9",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Bioskop119",
+            "request": "launch",
+            "mainClass": "Bioskop119",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Bioskop19",
+            "request": "launch",
+            "mainClass": "Bioskop19",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Bioskop219",
+            "request": "launch",
+            "mainClass": "Bioskop219",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Bioskop319",
+            "request": "launch",
+            "mainClass": "Bioskop319",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Bioskop419",
+            "request": "launch",
+            "mainClass": "Bioskop419",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Bioskop519",
+            "request": "launch",
+            "mainClass": "Bioskop519",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Bioskop619",
+            "request": "launch",
+            "mainClass": "Bioskop619",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Bioskop719",
+            "request": "launch",
+            "mainClass": "Bioskop719",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "BioskopWithScanner119",
+            "request": "launch",
+            "mainClass": "BioskopWithScanner119",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "BioskopWithScanner19",
+            "request": "launch",
+            "mainClass": "BioskopWithScanner19",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "BioskopWithScanner219",
+            "request": "launch",
+            "mainClass": "BioskopWithScanner219",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "BioskopWithScanner319",
+            "request": "launch",
+            "mainClass": "BioskopWithScanner319",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "BioskopWithScanner419",
+            "request": "launch",
+            "mainClass": "BioskopWithScanner419",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSortExample1",
+            "request": "launch",
+            "mainClass": "BubbleSortExample1",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSortExample19",
+            "request": "launch",
+            "mainClass": "BubbleSortExample19",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "ContohOperator19",
+            "request": "launch",
+            "mainClass": "ContohOperator19",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "ContohTipeData119",
+            "request": "launch",
+            "mainClass": "ContohTipeData119",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "ContohTipeData19",
+            "request": "launch",
+            "mainClass": "ContohTipeData19",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "ContohVariabel119",
+            "request": "launch",
+            "mainClass": "ContohVariabel119",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "ContohVariabel19",
+            "request": "launch",
+            "mainClass": "ContohVariabel19",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "DoWhileCuti19",
+            "request": "launch",
+            "mainClass": "DoWhileCuti19",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "DoWhileCutiMod19",
+            "request": "launch",
+            "mainClass": "DoWhileCutiMod19",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "DoWhileCutiMod219",
+            "request": "launch",
+            "mainClass": "DoWhileCutiMod219",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Exercise9",
+            "request": "launch",
+            "mainClass": "Exercise9",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "ForKelipatan19",
+            "request": "launch",
+            "mainClass": "ForKelipatan19",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "ForKelipatanMod19",
+            "request": "launch",
+            "mainClass": "ForKelipatanMod19",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Gaji119",
+            "request": "launch",
+            "mainClass": "Gaji119",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Gaji19",
+            "request": "launch",
+            "mainClass": "Gaji19",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "HargaBayar119",
+            "request": "launch",
+            "mainClass": "HargaBayar119",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "HargaBayar19",
+            "request": "launch",
+            "mainClass": "HargaBayar19",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Kasus11",
+            "request": "launch",
+            "mainClass": "Kasus11",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Kasus12",
+            "request": "launch",
+            "mainClass": "Kasus12",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Kasus13",
+            "request": "launch",
+            "mainClass": "Kasus13",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Kasus14",
+            "request": "launch",
+            "mainClass": "Kasus14",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Kasus15",
+            "request": "launch",
+            "mainClass": "Kasus15",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Kasus16",
+            "request": "launch",
+            "mainClass": "Kasus16",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Ketti",
+            "request": "launch",
+            "mainClass": "Ketti",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Kubus19",
+            "request": "launch",
+            "mainClass": "Kubus19",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Latiahan19",
+            "request": "launch",
+            "mainClass": "Latiahan19",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Latihan119",
+            "request": "launch",
+            "mainClass": "Latihan119",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearch1",
+            "request": "launch",
+            "mainClass": "LinearSearch1",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearch19",
+            "request": "launch",
+            "mainClass": "LinearSearch19",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearch2",
+            "request": "launch",
+            "mainClass": "LinearSearch2",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Lingkaran119",
+            "request": "launch",
+            "mainClass": "Lingkaran119",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Lingkaran19",
+            "request": "launch",
+            "mainClass": "Lingkaran19",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Mandiri1",
+            "request": "launch",
+            "mainClass": "Mandiri1",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Mandiri2",
+            "request": "launch",
+            "mainClass": "Mandiri2",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Mandiri3$DeretBilangan",
+            "request": "launch",
+            "mainClass": "Mandiri3$DeretBilangan",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Modulpiramida3",
+            "request": "launch",
+            "mainClass": "Modulpiramida3",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "MyFirstJava19",
+            "request": "launch",
+            "mainClass": "MyFirstJava19",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "MyFirstJavaGithub19",
+            "request": "launch",
+            "mainClass": "MyFirstJavaGithub19",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Nestedloop1_2341720002",
+            "request": "launch",
+            "mainClass": "Nestedloop1_2341720002",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Nestedloop2_2341720002",
+            "request": "launch",
+            "mainClass": "Nestedloop2_2341720002",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Nestedloop_2341720002",
+            "request": "launch",
+            "mainClass": "Nestedloop_2341720002",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Numbers119",
+            "request": "launch",
+            "mainClass": "Numbers119",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Numbers19",
+            "request": "launch",
+            "mainClass": "Numbers19",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Numbers219",
+            "request": "launch",
+            "mainClass": "Numbers219",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Numbers319",
+            "request": "launch",
+            "mainClass": "Numbers319",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Pemilihan2Percobaan1119",
+            "request": "launch",
+            "mainClass": "Pemilihan2Percobaan1119",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Pemilihan2Percobaan119",
+            "request": "launch",
+            "mainClass": "Pemilihan2Percobaan119",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Pemilihan2Percobaan1219",
+            "request": "launch",
+            "mainClass": "Pemilihan2Percobaan1219",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Pemilihan2Percobaan1319",
+            "request": "launch",
+            "mainClass": "Pemilihan2Percobaan1319",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Pemilihan2Percobaan2119",
+            "request": "launch",
+            "mainClass": "Pemilihan2Percobaan2119",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Pemilihan2Percobaan219",
+            "request": "launch",
+            "mainClass": "Pemilihan2Percobaan219",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Pemilihan2Percobaan319",
+            "request": "launch",
+            "mainClass": "Pemilihan2Percobaan319",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "PemilihanPercobaan1119",
+            "request": "launch",
+            "mainClass": "PemilihanPercobaan1119",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "PemilihanPercobaan119",
+            "request": "launch",
+            "mainClass": "PemilihanPercobaan119",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "PemilihanPercobaan1219",
+            "request": "launch",
+            "mainClass": "PemilihanPercobaan1219",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "PemilihanPercobaan1319",
+            "request": "launch",
+            "mainClass": "PemilihanPercobaan1319",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "PemilihanPercobaan219",
+            "request": "launch",
+            "mainClass": "PemilihanPercobaan219",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "PemilihanPercobaan319",
+            "request": "launch",
+            "mainClass": "PemilihanPercobaan319",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Percobaan1",
+            "request": "launch",
+            "mainClass": "Percobaan1",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Percobaan519",
+            "request": "launch",
+            "mainClass": "Percobaan519",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Percobaan6119",
+            "request": "launch",
+            "mainClass": "Percobaan6119",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Percobaan619",
+            "request": "launch",
+            "mainClass": "Percobaan619",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Percobaan6219",
+            "request": "launch",
+            "mainClass": "Percobaan6219",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "PersegiAngka",
+            "request": "launch",
+            "mainClass": "PersegiAngka",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Problem1",
+            "request": "launch",
+            "mainClass": "Problem1",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Problem2",
+            "request": "launch",
+            "mainClass": "Problem2",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Problem28",
+            "request": "launch",
+            "mainClass": "Problem28",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Problem3",
+            "request": "launch",
+            "mainClass": "Problem3",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Problem4",
+            "request": "launch",
+            "mainClass": "Problem4",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Problem5",
+            "request": "launch",
+            "mainClass": "Problem5",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Quiz",
+            "request": "launch",
+            "mainClass": "Quiz",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Quiz1",
+            "request": "launch",
+            "mainClass": "Quiz1",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Quiz2",
+            "request": "launch",
+            "mainClass": "Quiz2",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "ReservasiRestoran",
+            "request": "launch",
+            "mainClass": "ReservasiRestoran",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "ReservasiWarung",
+            "request": "launch",
+            "mainClass": "ReservasiWarung",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Segitiga19",
+            "request": "launch",
+            "mainClass": "Segitiga19",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "SegitigaAngka",
+            "request": "launch",
+            "mainClass": "SegitigaAngka",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "SegitigaBintang",
+            "request": "launch",
+            "mainClass": "SegitigaBintang",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Selection",
+            "request": "launch",
+            "mainClass": "Selection",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Soal1",
+            "request": "launch",
+            "mainClass": "Soal1",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Soal2",
+            "request": "launch",
+            "mainClass": "Soal2",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Soal3",
+            "request": "launch",
+            "mainClass": "Soal3",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Square",
+            "request": "launch",
+            "mainClass": "Square",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Square1",
+            "request": "launch",
+            "mainClass": "Square1",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Square2",
+            "request": "launch",
+            "mainClass": "Square2",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Square3",
+            "request": "launch",
+            "mainClass": "Square3",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Star",
+            "request": "launch",
+            "mainClass": "Star",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Star1",
+            "request": "launch",
+            "mainClass": "Star1",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Star2",
+            "request": "launch",
+            "mainClass": "Star2",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Star3",
+            "request": "launch",
+            "mainClass": "Star3",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "TerimaKasih2_19",
+            "request": "launch",
+            "mainClass": "TerimaKasih2_19",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "TerimaKasih_119",
+            "request": "launch",
+            "mainClass": "TerimaKasih_119",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "TerimaKasih_19",
+            "request": "launch",
+            "mainClass": "TerimaKasih_19",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Triangle",
+            "request": "launch",
+            "mainClass": "Triangle",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Triangle1",
+            "request": "launch",
+            "mainClass": "Triangle1",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Tugas",
+            "request": "launch",
+            "mainClass": "Tugas",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "UcapanTerimaKasih_119",
+            "request": "launch",
+            "mainClass": "UcapanTerimaKasih_119",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "UcapanTerimaKasih_19",
+            "request": "launch",
+            "mainClass": "UcapanTerimaKasih_19",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Ucapan_19",
+            "request": "launch",
+            "mainClass": "Ucapan_19",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "WhileGaji19",
+            "request": "launch",
+            "mainClass": "WhileGaji19",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "WhileGajiMod19",
+            "request": "launch",
+            "mainClass": "WhileGajiMod19",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "WhileKelipatan19",
+            "request": "launch",
+            "mainClass": "WhileKelipatan19",
+            "projectName": "DASPRO_5714cc0c"
+        },
+        {
+            "type": "java",
+            "name": "kasir2",
+            "request": "launch",
+            "mainClass": "kasir2",
+            "projectName": "DASPRO_5714cc0c"
+        }
+    ]
+}
