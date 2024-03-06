@@ -1,3 +1,4 @@
+package Jobsheet2;
 public class Buku19 {
     String judul, pengarang;
     int halaman, stok, harga;

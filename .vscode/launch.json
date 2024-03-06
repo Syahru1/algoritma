@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PegawaiMain19",
+            "request": "launch",
+            "mainClass": "Quiz1.PegawaiMain19",
+            "projectName": "Semester2_61ebafd5"
+        },
+        {
+            "type": "java",
+            "name": "MahasiswaModif",
+            "request": "launch",
+            "mainClass": "Jobsheet3.Latihan2.MahasiswaModif",
+            "projectName": "Semester2_61ebafd5"
+        },
+        {
+            "type": "java",
             "name": "Modulpiramida3",
             "request": "launch",
             "mainClass": "Modulpiramida3",
