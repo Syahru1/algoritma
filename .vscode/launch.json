@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MobilMain19",
+            "request": "launch",
+            "mainClass": "Jobsheet5.Latihan.MobilMain19",
+            "projectName": "Semester2_61ebafd5"
+        },
+        {
+            "type": "java",
+            "name": "BukuMain19",
+            "request": "launch",
+            "mainClass": "Jobsheet7.TestSearching.P7.BukuMain19",
+            "projectName": "Semester2_61ebafd5"
+        },
+        {
+            "type": "java",
+            "name": "MainHotel19",
+            "request": "launch",
+            "mainClass": "Jobsheet6.LatihanPraktikum.MainHotel19",
+            "projectName": "Semester2_61ebafd5"
+        },
+        {
+            "type": "java",
+            "name": "Main19",
+            "request": "launch",
+            "mainClass": "Jobsheet6.Main19",
+            "projectName": "Semester2_61ebafd5"
+        },
+        {
+            "type": "java",
+            "name": "MainSum19",
+            "request": "launch",
+            "mainClass": "Jobsheet5.MainSum19",
+            "projectName": "Semester2_61ebafd5"
+        },
+        {
+            "type": "java",
+            "name": "MainPangkat19",
+            "request": "launch",
+            "mainClass": "Jobsheet5.MainPangkat19",
+            "projectName": "Semester2_61ebafd5"
+        },
+        {
+            "type": "java",
+            "name": "MainFaktorial19",
+            "request": "launch",
+            "mainClass": "Jobsheet5.MainFaktorial19",
+            "projectName": "Semester2_61ebafd5"
+        },
+        {
+            "type": "java",
             "name": "PegawaiMain19",
             "request": "launch",
             "mainClass": "Quiz1.PegawaiMain19",
