@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Utama19",
+            "request": "launch",
+            "mainClass": "Jobsheet8.Utama19",
+            "projectName": "Semester2_61ebafd5"
+        },
+        {
+            "type": "java",
+            "name": "BukuMain19",
+            "request": "launch",
+            "mainClass": "Jobsheet7.Latihan2.BukuMain19",
+            "projectName": "Semester2_61ebafd5"
+        },
+        {
+            "type": "java",
+            "name": "BukuMain19",
+            "request": "launch",
+            "mainClass": "Jobsheet7.Latihan.BukuMain19",
+            "projectName": "Semester2_61ebafd5"
+        },
+        {
+            "type": "java",
+            "name": "MergeSortMain19",
+            "request": "launch",
+            "mainClass": "Jobsheet7.MergeSortTest.MergeSortMain19",
+            "projectName": "Semester2_61ebafd5"
+        },
+        {
+            "type": "java",
             "name": "MobilMain19",
             "request": "launch",
             "mainClass": "Jobsheet5.Latihan.MobilMain19",

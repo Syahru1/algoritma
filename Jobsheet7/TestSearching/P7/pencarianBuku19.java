@@ -49,4 +49,27 @@ public class pencarianBuku19 {
             System.out.println("data " + x + "tidak ditemukan");
         }
     }
+
+    public Buku19 FindBuku(int cari) {
+        for (int i = 0; i < idx; i++) {
+            if(listBk[i].kodeBuku == cari) {
+                return listBk[i];
+            }
+        }
+        return null;
+    }
+
+    public int FindBinarySearch(int cari, int left, int right) {
+        while(left <= right) {
+           int mid = left + (right - left) / 2;
+            if (listBk[mid].kodeBuku == cari) {
+                return mid;
+            }else if (listBk[mid].kodeBuku < cari) {
+                left = mid - 1;
+            }else {
+                right = mid + 1;
+            }
+        }
+        return -1;
+    }
 }
