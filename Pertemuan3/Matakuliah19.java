@@ -23,7 +23,7 @@ public class Matakuliah19 {
 
     void tampilMahasiswa() {
         for(Mahasiswa n:mhs) {
-            System.out.println(n.alamat);
+            System.out.println();
         }
     }
 

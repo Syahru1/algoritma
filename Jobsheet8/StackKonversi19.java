@@ -35,7 +35,7 @@ public class StackKonversi19 {
         }else {
             int data = tumpukanBiner[top];
             top--;
-            return data;
+            return data;  
         }
     }
 }

@@ -5,6 +5,4 @@ public class Buku19 {
     String pengarang;
     int tahunTerbit;
     String ISBN;
-
-    void j
 }

@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MenuManajemenStok19",
+            "request": "launch",
+            "mainClass": "UTS.MenuManajemenStok19",
+            "projectName": "Semester2_61ebafd5"
+        },
+        {
+            "type": "java",
+            "name": "QueueMain19",
+            "request": "launch",
+            "mainClass": "Jobsheet9.Praktikum2.QueueMain19",
+            "projectName": "Semester2_61ebafd5"
+        },
+        {
+            "type": "java",
+            "name": "QueueMain19",
+            "request": "launch",
+            "mainClass": "Jobsheet9.Praktikum1.QueueMain19",
+            "projectName": "Semester2_61ebafd5"
+        },
+        {
+            "type": "java",
             "name": "Utama19",
             "request": "launch",
             "mainClass": "Jobsheet8.Utama19",
