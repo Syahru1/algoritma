@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Utama19",
+            "request": "launch",
+            "mainClass": "Jobsheet8.Latihan.Utama19",
+            "projectName": "Semester2_61ebafd5"
+        },
+        {
+            "type": "java",
+            "name": "PostfixMain19",
+            "request": "launch",
+            "mainClass": "Jobsheet8.Postfix.PostfixMain19",
+            "projectName": "Semester2_61ebafd5"
+        },
+        {
+            "type": "java",
+            "name": "MainPembeli19",
+            "request": "launch",
+            "mainClass": "Jobsheet9.Tugas.MainPembeli19",
+            "projectName": "Semester2_61ebafd5"
+        },
+        {
+            "type": "java",
             "name": "MenuManajemenStok19",
             "request": "launch",
             "mainClass": "UTS.MenuManajemenStok19",

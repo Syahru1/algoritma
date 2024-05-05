@@ -1,4 +1,4 @@
-package Jobsheet8;
+package Jobsheet8.Latihan;
 
 import java.util.Stack;
 
@@ -90,5 +90,46 @@ public class Gudang19 {
             biner += stack.pop();
         }
         return biner;
+    }
+
+    public Barang19 lihatBarangTerbawah() {
+        if (!cekKosong()) {
+            Barang19 barangTerbawah = tumpukan[0];
+            System.out.println("Barang terbawah: " + barangTerbawah.nama);
+            return barangTerbawah;
+        } else {
+            System.out.println("Tumpukan barang kosong.");
+            return null;
+        }
+    }
+    
+    public void cariBarangKode(int kode) {
+        boolean ditemukan = false;
+        for (int i = 0; i <= top; i++) {
+            if (tumpukan[i].kode == kode) {
+                System.out.println("Barang dengan kode " + kode + " ditemukan:");
+                System.out.println("Nama Barang: " + tumpukan[i].nama);
+                System.out.println("Kategori: " + tumpukan[i].kategori);
+                ditemukan = true;
+            }
+        }
+        if (!ditemukan) {
+            System.out.println("Barang dengan kode " + kode + " tidak ditemukan.");
+        }
+    }
+    
+    public void cariBarangNama(String nama) {
+        boolean ditemukan = false;
+        for (int i = 0; i <= top; i++) {
+            if (tumpukan[i].nama.equalsIgnoreCase(nama)) {
+                System.out.println("Barang dengan nama " + nama + " ditemukan:");
+                System.out.println("Kode Barang: " + tumpukan[i].kode);
+                System.out.println("Kategori: " + tumpukan[i].kategori);
+                ditemukan = true;
+            }
+        }
+        if (!ditemukan) {
+            System.out.println("Barang dengan nama " + nama + " tidak ditemukan.");
+        }
     }
 }
