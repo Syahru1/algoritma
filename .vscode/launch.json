@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "quiz2MuhammadSyahrulGunawan.Main",
+            "projectName": "Semester2_61ebafd5"
+        },
+        {
+            "type": "java",
+            "name": "DoubleLinkedListsMain19",
+            "request": "launch",
+            "mainClass": "Minggu12.Jobsheet10.Percobaan3.DoubleLinkedListsMain19",
+            "projectName": "Semester2_61ebafd5"
+        },
+        {
+            "type": "java",
+            "name": "DoubleLinkedListsMain19",
+            "request": "launch",
+            "mainClass": "Minggu12.Jobsheet10.Percobaan2.DoubleLinkedListsMain19",
+            "projectName": "Semester2_61ebafd5"
+        },
+        {
+            "type": "java",
+            "name": "DoubleLinkedListsMain19",
+            "request": "launch",
+            "mainClass": "Minggu12.Jobsheet10.Percobaan1.DoubleLinkedListsMain19",
+            "projectName": "Semester2_61ebafd5"
+        },
+        {
+            "type": "java",
+            "name": "SLLMain19",
+            "request": "launch",
+            "mainClass": "Minggu11.Jobsheet9.Praktikum2.SLLMain19",
+            "projectName": "Semester2_61ebafd5"
+        },
+        {
+            "type": "java",
+            "name": "SLLMain19",
+            "request": "launch",
+            "mainClass": "Minggu11.Jobsheet9.Praktikum1.SLLMain19",
+            "projectName": "Semester2_61ebafd5"
+        },
+        {
+            "type": "java",
+            "name": "SLLMain19",
+            "request": "launch",
+            "mainClass": "Minggu11.Jobsheet9.StrukturData.SLLMain19",
+            "projectName": "Semester2_61ebafd5"
+        },
+        {
+            "type": "java",
             "name": "Utama19",
             "request": "launch",
             "mainClass": "Jobsheet8.Latihan.Utama19",
