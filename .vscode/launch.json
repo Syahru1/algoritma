@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GrapMain19",
+            "request": "launch",
+            "mainClass": "Minggu15.Percobaan2.GrapMain19",
+            "projectName": "Semester2_61ebafd5"
+        },
+        {
+            "type": "java",
+            "name": "GrapMain19",
+            "request": "launch",
+            "mainClass": "Minggu15.Percobaan1.GrapMain19",
+            "projectName": "Semester2_61ebafd5"
+        },
+        {
+            "type": "java",
+            "name": "GraphMain19",
+            "request": "launch",
+            "mainClass": "Minggu15.Percobaan2.GraphMain19",
+            "projectName": "Semester2_61ebafd5"
+        },
+        {
+            "type": "java",
+            "name": "GraphMain19",
+            "request": "launch",
+            "mainClass": "Minggu15.Tugas.GraphMain19",
+            "projectName": "Semester2_61ebafd5"
+        },
+        {
+            "type": "java",
             "name": "Main19",
             "request": "launch",
             "mainClass": "Minggu14.Tugas.Main19",

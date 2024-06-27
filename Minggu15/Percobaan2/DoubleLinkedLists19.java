@@ -1,10 +1,10 @@
 package Minggu15.Percobaan2;
 
-public class DLL19 {
+public class DoubleLinkedLists19 {
     Node19 head;
     int size;
 
-    public DLL19(){
+    public DoubleLinkedLists19(){
         head = null;
         size = 0;
     }

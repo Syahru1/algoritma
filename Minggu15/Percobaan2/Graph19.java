@@ -4,13 +4,13 @@ import java.util.Stack;
 
 public class Graph19 {
     int vertex;
-    DLL19 list[];
+    DoubleLinkedLists19 list[];
 
     public Graph19(int v){
         vertex = v;
-        list = new DLL19[v];
+        list = new DoubleLinkedLists19[v];
         for(int i = 0; i<v; i++){
-            list[i] = new DLL19();
+            list[i] = new DoubleLinkedLists19();
         }
     }
 

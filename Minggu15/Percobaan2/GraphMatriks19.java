@@ -34,24 +34,24 @@ public class GraphMatriks19 {
         }
     }
     
-    public void degree(int asal) {
-        int totalIn = 0, totalOut = 0;
-        for (int i = 0; i < vertex; i++) {
-            // Menghitung inDegree
-            if (matriks[i][asal] != -1) {
-                totalIn++;
-            }
-            // Menghitung outDegree
-            if (matriks[asal][i] != -1) {
-                totalOut++;
-            }
-        }
-        System.out.println("\nGedung " + (char) ('A' + asal));
-        System.out.println("InDegree dari Gedung " + (char) ('A' + asal) + " : " + totalIn);
-        System.out.println("OutDegree dari Gedung " + (char) ('A' + asal) + " : " + totalOut);
-        System.out.println("Degree total dari Gedung " + (char) ('A' + asal) + " : " + (totalIn + totalOut));
-        System.out.println();
-    }
+    // public void degree(int asal) {
+    //     int totalIn = 0, totalOut = 0;
+    //     for (int i = 0; i < vertex; i++) {
+    //         // Menghitung inDegree
+    //         if (matriks[i][asal] != -1) {
+    //             totalIn++;
+    //         }
+    //         // Menghitung outDegree
+    //         if (matriks[asal][i] != -1) {
+    //             totalOut++;
+    //         }
+    //     }
+    //     System.out.println("\nGedung " + (char) ('A' + asal));
+    //     System.out.println("InDegree dari Gedung " + (char) ('A' + asal) + " : " + totalIn);
+    //     System.out.println("OutDegree dari Gedung " + (char) ('A' + asal) + " : " + totalOut);
+    //     System.out.println("Degree total dari Gedung " + (char) ('A' + asal) + " : " + (totalIn + totalOut));
+    //     System.out.println();
+    // }
     
 
 }

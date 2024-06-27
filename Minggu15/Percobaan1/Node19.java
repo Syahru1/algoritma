@@ -2,13 +2,14 @@ package Minggu15.Percobaan1;
 
 public class Node19 {
     int data;
-    Node19 prev, next;
+    Node19 prev;
+    Node19 next;
     int jarak;
 
     Node19(Node19 prev, int data, int jarak, Node19 next){
-        this.prev = prev;
         this.data = data;
-        this. next = next;
+        this.prev = prev;
+        this.next = next;
         this.jarak = jarak;
     }
 }
