@@ -6,6 +6,125 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main19",
+            "request": "launch",
+            "mainClass": "Minggu14.Tugas.Main19",
+            "projectName": "Semester2_61ebafd5"
+        },
+        {
+            "type": "java",
+            "name": "MainDF19",
+            "request": "launch",
+            "mainClass": "Minggu12.Jobsheet10.Tugas2.MainDF19",
+            "projectName": "Semester2_61ebafd5"
+        },
+        {
+            "type": "java",
+            "name": "MainMahasiswa19",
+            "request": "launch",
+            "mainClass": "Minggu16.Tugas2.MainMahasiswa19",
+            "projectName": "Semester2_61ebafd5"
+        },
+        {
+            "type": "java",
+            "name": "MainMahasiswa19",
+            "request": "launch",
+            "mainClass": "Minggu16.Tugas1.MainMahasiswa19",
+            "projectName": "Semester2_61ebafd5"
+        },
+        {
+            "type": "java",
+            "name": "GraphMain",
+            "request": "launch",
+            "mainClass": "Minggu15.Percobaan2.GraphMain",
+            "projectName": "Semester2_61ebafd5"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Minggu11.Jobsheet9.Tugas2.Main",
+            "projectName": "Semester2_61ebafd5"
+        },
+        {
+            "type": "java",
+            "name": "MainSLL19",
+            "request": "launch",
+            "mainClass": "Minggu11.Jobsheet9.Tugas1.MainSLL19",
+            "projectName": "Semester2_61ebafd5"
+        },
+        {
+            "type": "java",
+            "name": "Main19",
+            "request": "launch",
+            "mainClass": "Minggu12.Jobsheet10.Tugas.Main19",
+            "projectName": "Semester2_61ebafd5"
+        },
+        {
+            "type": "java",
+            "name": "Main19",
+            "request": "launch",
+            "mainClass": "UAS.Soal.Main19",
+            "projectName": "Semester2_61ebafd5"
+        },
+        {
+            "type": "java",
+            "name": "Main19",
+            "request": "launch",
+            "mainClass": "UAS.Soal1.Main19",
+            "projectName": "Semester2_61ebafd5"
+        },
+        {
+            "type": "java",
+            "name": "ListMahasiswa19",
+            "request": "launch",
+            "mainClass": "Minggu16.Percobaan3.ListMahasiswa19",
+            "projectName": "Semester2_61ebafd5"
+        },
+        {
+            "type": "java",
+            "name": "LoopCollection19",
+            "request": "launch",
+            "mainClass": "Minggu16.Percobaan2.LoopCollection19",
+            "projectName": "Semester2_61ebafd5"
+        },
+        {
+            "type": "java",
+            "name": "ContohList",
+            "request": "launch",
+            "mainClass": "Minggu16.Percobaan1.ContohList",
+            "projectName": "Semester2_61ebafd5"
+        },
+        {
+            "type": "java",
+            "name": "GraphMain19",
+            "request": "launch",
+            "mainClass": "Minggu15.Percobaan1.GraphMain19",
+            "projectName": "Semester2_61ebafd5"
+        },
+        {
+            "type": "java",
+            "name": "BinaryTreeMain19",
+            "request": "launch",
+            "mainClass": "Minggu14.Tugas.BinaryTreeMain19",
+            "projectName": "Semester2_61ebafd5"
+        },
+        {
+            "type": "java",
+            "name": "BinaryTreeArrayMain19",
+            "request": "launch",
+            "mainClass": "Minggu14.Percobaan2.BinaryTreeArrayMain19",
+            "projectName": "Semester2_61ebafd5"
+        },
+        {
+            "type": "java",
+            "name": "BinaryTreeMain19",
+            "request": "launch",
+            "mainClass": "Minggu14.Percobaan1.BinaryTreeMain19",
+            "projectName": "Semester2_61ebafd5"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "quiz2MuhammadSyahrulGunawan.Main",
